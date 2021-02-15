@@ -3,7 +3,7 @@ A small Java Continuous Integration server.
 This is a simple server for Continuous Integration development. It is meant to be called as webhook by Github. The HTTP part of it is based on Jetty. We use Maven for building and managing our project.
 
 We assume here that you have a standard Linux machine (eg with Ubuntu), with Java and Maven installed. 
-
+c
 
 ## How to run:
 After checking out the repository, build it in the root directory using the following command:
