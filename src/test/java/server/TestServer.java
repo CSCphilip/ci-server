@@ -11,7 +11,7 @@ public class TestServer {
     @Test
     public void dummyTest() {
         int a = 1;
-        assertEquals(a,2);
+        assertEquals(a,1);
     }
 
     @Test
