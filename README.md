@@ -4,7 +4,7 @@ This is a simple server for Continuous Integration development. It is meant to b
 
 We assume here that you have a standard Linux machine (eg with Ubuntu), with Java and Maven installed. 
 dc
-
+2
 ## How to run:
 After checking out the repository, build it in the root directory using the following command:
 
